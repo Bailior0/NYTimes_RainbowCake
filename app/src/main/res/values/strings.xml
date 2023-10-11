@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NY Times Most Popular</string>
+    <string name="full_article">FULL ARTICLE</string>
+    <string name="network_error">Network request error occurred</string>
+</resources>

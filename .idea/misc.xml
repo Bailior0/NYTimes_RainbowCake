@@ -1,0 +1,20 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HP/AndroidStudioProjects/NYTimes_Gyulai_RainbowCake/app/src/main/res/drawable-v24/baseline_event_24.xml" value="0.1065" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/NYTimes_Gyulai_RainbowCake/app/src/main/res/layout/activity_details.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/NYTimes_Gyulai_RainbowCake/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/NYTimes_Gyulai_RainbowCake/app/src/main/res/layout/fragment_details.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/NYTimes_Gyulai_RainbowCake/app/src/main/res/layout/fragment_list.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/NYTimes_Gyulai_RainbowCake/app/src/main/res/layout/item_news_list.xml" value="0.22826086956521738" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
